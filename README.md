@@ -11,4 +11,4 @@ This level of unpredictability assumes that a potential attacker knows that Dice
 
 The above calculations of the Diceware algorithm's entropy assume that, as recommended by Diceware's author, each word is separated by a space. If, instead, words are simply concatenated, the calculated entropy is slightly reduced due to redundancy; for example, the three-word Diceware phrases "in put clammy" and "input clam my" become identical if the spaces are removed.
 
-the application is hosted at <a href="sudeepgupta90.pythonanywhere.com">sudeepgupta90.pythonanywhere.com</a>
+the application is hosted at <a href="https://sudeepgupta90.pythonanywhere.com/">sudeepgupta90.pythonanywhere.com</a>
