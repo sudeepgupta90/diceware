@@ -10,3 +10,5 @@ The level of unpredictability of a Diceware passphrase can be easily calculated:
 This level of unpredictability assumes that a potential attacker knows that Diceware has been used to generate the passphrase, knows the particular word list used, and knows exactly how many words make up the passphrase. If the attacker has less information, the entropy can be greater than 12.9 bits per word.
 
 The above calculations of the Diceware algorithm's entropy assume that, as recommended by Diceware's author, each word is separated by a space. If, instead, words are simply concatenated, the calculated entropy is slightly reduced due to redundancy; for example, the three-word Diceware phrases "in put clammy" and "input clam my" become identical if the spaces are removed.
+
+the application is hosted at <a href="sudeepgupta90.pythonanywhere.com">sudeepgupta90.pythonanywhere.com</a>
