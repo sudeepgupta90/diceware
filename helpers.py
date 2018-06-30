@@ -27,6 +27,7 @@ def translatePasswd(app,li, language):
 	return passwd
 
 def factory(app, length=6, language="en"):
+	print (length)
 	li= generatePasswd(length)
 	passwd= translatePasswd(app, li, language)
 
